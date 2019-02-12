@@ -244,10 +244,9 @@ proceeding, if such filing is made under seal.
 > Obligations) for Confidential Information disclosed during the term
 > survive the term of this agreement as follows: 
 
-(i)Obligations for Confidential Information that is a trade secret,
-marked as a trade secret or identified as a trade secret in writing
-shortly after disclosure, survive as long as the Confidential
-Information remains a trade secret.
+(i)Obligations for Confidential Information that that Receiving Party
+knew or reasonably should have known constituted a trade secret survive
+as long as the Confidential Information remains a trade secret.
 
 (ii)Obligations for other Confidential Information survive for five
 calendar years from the date of termination.

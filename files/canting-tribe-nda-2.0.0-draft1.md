@@ -244,9 +244,9 @@ proceeding, if such filing is made under seal.
 > Obligations) for Confidential Information disclosed during the term
 > survive the term of this agreement as follows: 
 
-(i)Obligations for Confidential Information that that Receiving Party
-knew or reasonably should have known constituted a trade secret survive
-as long as the Confidential Information remains a trade secret.
+(i)Obligations for Confidential Information that Receiving Party knew or
+reasonably should have known constituted a trade secret survive as long
+as the Confidential Information remains a trade secret.
 
 (ii)Obligations for other Confidential Information survive for five
 calendar years from the date of termination.
@@ -293,7 +293,7 @@ address the other party provided with their signature.
 > (f)**Severability**. If a court decides that any part of this
 > agreement is invalid or unenforceable for any reason but enforcing the
 > rest of the agreement would serve the purpose of protecting
-> Confidential Information to advance the Purpose, then rest of this
+> Confidential Information to advance the Purpose, then the rest of this
 > agreement will remain in force.
 
 > (g)**No Third-Party Enforcement**. Only the parties may enforce rights

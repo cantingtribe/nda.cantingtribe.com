@@ -16,10 +16,9 @@ E-Mail:
 
 > 
 
-> **Purpose**:\[State the purpose for sharing confidential
-> information.\]
+**Purpose**:\[State the purpose for sharing confidential information.\]
 
-> **State Law**:\[Name the state whose law will govern the agreement.\]
+**State Law**:\[Name the state whose law will govern the agreement.\]
 
 **The Canting Tribe NDA**
 
